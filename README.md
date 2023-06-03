@@ -13,7 +13,9 @@ Although you can write Procedural code in C#, why use an object-oriented languag
 - Commitment to organisation of responsibilities
 - Classes are tools, used by other classes with other responsibilities
 
-[Mermaid](Mermaid.md) introduces diagramming to MarkDown.
+### Mermaid introduces UML diagramming to MarkDown:
+- [Flowcharts](Flowcharts.md) 
+- [ClassDiagrams](ClassDiagrams.md)
 
 ### Object-oriented design is
 - **Not** - `Code written in an object-oriented language`
