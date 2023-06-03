@@ -22,7 +22,7 @@ Although you can write Procedural code in C#, why use an object-oriented languag
 - **Not** - `Code that uses language features like inheritance and interfaces`
 - **Planning out a system in terms of objects and their responsibilities**
 
-### Key to Object-oriented design is ['The Four Pillars'](TheFourPillars.md), ['SOLID'](SOLID.md), and other [Object-oriented vocabulary](ObjectOrientedVocabulary.md).
+### Key to Object-oriented design is ['The Four Pillars'](TheFourPillars.md), ['SOLID'](SOLID.md), and other [Object-oriented vocabulary](OOVocabulary.md).
 
 
 
